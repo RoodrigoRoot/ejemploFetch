@@ -1,0 +1,37 @@
+{
+
+"users":[
+    {
+        "username":"root",
+        "firtName":"Rodrigo",
+        "lastName":"Urcino Alvarez",
+        "age":24
+
+    },
+    
+    {
+        "username":"Richard",
+        "firtName":"Ricardo",
+        "lastName":"Flores de Anda",
+        "age":31
+
+    },
+    
+    {
+        "username":"JL",
+        "firtName":"José Luis",
+        "lastName":"Delgadillo Muro",
+        "age":31
+
+    },
+
+    {
+        "username":"Mike",
+        "firtName":"Miguel",
+        "lastName":"Martinez Montes",
+        "age":33
+
+    }
+]
+
+}
